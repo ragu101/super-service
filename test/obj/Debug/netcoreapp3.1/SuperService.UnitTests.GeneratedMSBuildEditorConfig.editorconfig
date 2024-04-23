@@ -1,5 +1,5 @@
 is_global = true
 build_property.RootNamespace = SuperService.UnitTests
-build_property.ProjectDir = /Users/ragu/Documents/git_repos/super-service/super-service/test/
+build_property.ProjectDir = /Users/ragu/Documents/git_repos/super-service/test/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

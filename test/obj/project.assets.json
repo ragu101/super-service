@@ -4764,11 +4764,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ragu/Documents/git_repos/super-service/super-service/test/SuperService.UnitTests.csproj",
+      "projectUniqueName": "/Users/ragu/Documents/git_repos/super-service/test/SuperService.UnitTests.csproj",
       "projectName": "SuperService.UnitTests",
-      "projectPath": "/Users/ragu/Documents/git_repos/super-service/super-service/test/SuperService.UnitTests.csproj",
+      "projectPath": "/Users/ragu/Documents/git_repos/super-service/test/SuperService.UnitTests.csproj",
       "packagesPath": "/Users/ragu/.nuget/packages/",
-      "outputPath": "/Users/ragu/Documents/git_repos/super-service/super-service/test/obj/",
+      "outputPath": "/Users/ragu/Documents/git_repos/super-service/test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ragu/.nuget/NuGet/NuGet.Config"
@@ -4783,8 +4783,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/ragu/Documents/git_repos/super-service/super-service/src/SuperService.csproj": {
-              "projectPath": "/Users/ragu/Documents/git_repos/super-service/super-service/src/SuperService.csproj"
+            "/Users/ragu/Documents/git_repos/super-service/src/SuperService.csproj": {
+              "projectPath": "/Users/ragu/Documents/git_repos/super-service/src/SuperService.csproj"
             }
           }
         }

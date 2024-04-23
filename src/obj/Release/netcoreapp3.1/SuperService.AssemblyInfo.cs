@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuperService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40a289f8f164246e4b0d8c6772173871b11840a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SuperService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuperService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KZCBj6QxL6y/73Mbw3yjGdu5YjwAeL+Joe8ebceeD+0Pj8MBNMfOBEA6/kQDafPZyPHIQ1nYFSnzYB7BGay2jw==",
+  "dgSpecHash": "w4qdnnKoNH9C4Du7lOAW5yNmQ1CW+7fUmkA0HUqu3RYUh9mhevJN1xVtnTof3h7LBb6Bqzg2VRAeUXbZQmCViA==",
   "success": true,
-  "projectFilePath": "/Users/ragu/Documents/git_repos/super-service/super-service/test/SuperService.UnitTests.csproj",
+  "projectFilePath": "/Users/ragu/Documents/git_repos/super-service/test/SuperService.UnitTests.csproj",
   "expectedPackageFiles": [
     "/Users/ragu/.nuget/packages/microsoft.codecoverage/16.4.0/microsoft.codecoverage.16.4.0.nupkg.sha512",
     "/Users/ragu/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F/RFifYShJEvc6Bh9i5nyqnzh6IyA188X7/vVjVZ0st9SfWQc8hjWX0qQlpRzkby+a0LQttRfWlrsfNeJiLeAg==",
+  "dgSpecHash": "4V9tGmXvFDSeHVHJOt3EO8yjxjZeFNhC06gg9pL0u8trfnRljYlHm/JzRfhpzt2GO8BodZa0JFhAXUFMN1XaTA==",
   "success": true,
-  "projectFilePath": "/Users/ragu/Documents/git_repos/super-service/super-service/src/SuperService.csproj",
+  "projectFilePath": "/Users/ragu/Documents/git_repos/super-service/src/SuperService.csproj",
   "expectedPackageFiles": [
     "/Users/ragu/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "/Users/ragu/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",

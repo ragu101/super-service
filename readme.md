@@ -1,13 +1,26 @@
 # Instructions to follow to test the solution
+## Pre-requisites 
+1. Docker Desktop or Docker Engine running on your machine 
+2. Install .NET framework 3.1.0 on your machine 
+    https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-3.1.100-windows-x64-installer
 
 ## Run powershell script `Deploy.ps1` to compile, test & build docker image
 ```
 cd super-service\src
 pwsh Deploy.ps1
+ (or)
+./Deploy.ps1
 ```
 Following is the expected output
 ![output](images/build.png)
 
+## Vulnerability details in the image 
+if `docker scout` installed on your system, you can check the vulnerabilities by running below command
+```
+docker scout cves super-service:latest
+```
+The main image has 1 Critical, 3 High, 2 Medium & 25 Low vulnerabilities 
+![vunerability](images/docker-image-vulnerability.png)
 
 ## Cloud Design overview
 ![design](./images/axi.png)

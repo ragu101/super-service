@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ragu/Documents/git_repos/super-service/super-service/src/SuperService.csproj": {}
+    "/Users/ragu/Documents/git_repos/super-service/src/SuperService.csproj": {}
   },
   "projects": {
-    "/Users/ragu/Documents/git_repos/super-service/super-service/src/SuperService.csproj": {
+    "/Users/ragu/Documents/git_repos/super-service/src/SuperService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ragu/Documents/git_repos/super-service/super-service/src/SuperService.csproj",
+        "projectUniqueName": "/Users/ragu/Documents/git_repos/super-service/src/SuperService.csproj",
         "projectName": "SuperService",
-        "projectPath": "/Users/ragu/Documents/git_repos/super-service/super-service/src/SuperService.csproj",
+        "projectPath": "/Users/ragu/Documents/git_repos/super-service/src/SuperService.csproj",
         "packagesPath": "/Users/ragu/.nuget/packages/",
-        "outputPath": "/Users/ragu/Documents/git_repos/super-service/super-service/src/obj/",
+        "outputPath": "/Users/ragu/Documents/git_repos/super-service/src/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ragu/.nuget/NuGet/NuGet.Config"
