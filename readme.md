@@ -10,7 +10,7 @@ Following is the expected output
 
 
 ## Cloud Design overview
-![design](images/axi.svg)
+![design](./images/axi.png)
 
 ### Design description:
 1. web-app & internal-asset are deployed into two different virtual networks, web-app especially deployed onto `Azure Kubernetes service`.
