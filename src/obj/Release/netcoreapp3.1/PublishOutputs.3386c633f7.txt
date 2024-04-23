@@ -1,7 +1,0 @@
-/Users/ragu/Downloads/DevOps-interview-test-axi/super-service/src/bin/Release/SuperService
-/Users/ragu/Downloads/DevOps-interview-test-axi/super-service/src/bin/Release/appsettings.Development.json
-/Users/ragu/Downloads/DevOps-interview-test-axi/super-service/src/bin/Release/appsettings.json
-/Users/ragu/Downloads/DevOps-interview-test-axi/super-service/src/bin/Release/SuperService.dll
-/Users/ragu/Downloads/DevOps-interview-test-axi/super-service/src/bin/Release/SuperService.deps.json
-/Users/ragu/Downloads/DevOps-interview-test-axi/super-service/src/bin/Release/SuperService.runtimeconfig.json
-/Users/ragu/Downloads/DevOps-interview-test-axi/super-service/src/bin/Release/SuperService.pdb

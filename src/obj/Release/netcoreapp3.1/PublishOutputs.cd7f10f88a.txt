@@ -1,7 +1,0 @@
-/Users/ragu/Documents/git_repos/super-service/src/bin/Release/SuperService
-/Users/ragu/Documents/git_repos/super-service/src/bin/Release/appsettings.Development.json
-/Users/ragu/Documents/git_repos/super-service/src/bin/Release/appsettings.json
-/Users/ragu/Documents/git_repos/super-service/src/bin/Release/SuperService.dll
-/Users/ragu/Documents/git_repos/super-service/src/bin/Release/SuperService.deps.json
-/Users/ragu/Documents/git_repos/super-service/src/bin/Release/SuperService.runtimeconfig.json
-/Users/ragu/Documents/git_repos/super-service/src/bin/Release/SuperService.pdb
