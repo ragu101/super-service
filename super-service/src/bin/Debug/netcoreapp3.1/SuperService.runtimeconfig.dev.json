@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/ragu/.dotnet/store/|arch|/|tfm|",
+      "/Users/ragu/.nuget/packages"
+    ]
+  }
+}
