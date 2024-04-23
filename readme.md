@@ -6,6 +6,7 @@
 
 ## Run powershell script `Deploy.ps1` to compile, test & build docker image
 ```
+git clone https://github.com/ragu101/super-service.git
 cd super-service\src
 pwsh Deploy.ps1
  (or)
