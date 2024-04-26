@@ -15,7 +15,7 @@ pwsh Deploy.ps1
 Following is the expected output
 ![output](images/build.png)
 
-## Run github action automated CI to do the same task 
+## Run github action automated CI to compile, test & Docker build, push
 https://github.com/ragu101/super-service/actions/runs/8843493873/job/24283806711
 docker pull ragu121/super-service:latest
 
