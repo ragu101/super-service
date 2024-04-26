@@ -38,5 +38,5 @@ The main image has 1 Critical, 3 High, 2 Medium & 25 Low vulnerabilities
 - Office network traffic to azure devops should be whitelisted through a `proxy server` otherwise a potential code leak is possible if access token or ssh key is compromised.
 - Both vnets can be configured in `azure devops pipeline`, so that developer can build & deploy automatically.
 #### IaaC (Infrastructure as code)
-Option 1: Integrating terraform as part of azure devops pipeline & storing the state file in Azure Blob Storage 
-Option 2: Enable gitops based infra privisioning by deploying argoCD & cross plane to AKS
+- Option 1: Integrating terraform as part of azure devops pipeline & storing the state file in Azure Blob Storage 
+- Option 2: Enable gitops based infra privisioning by deploying argoCD & cross plane to AKS
