@@ -5,9 +5,9 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "super-service", "super-service", "{C2E96737-1714-45A4-8CFB-F2B8C1F060B2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperService.UnitTests", "super-service\test\SuperService.UnitTests.csproj", "{5A90E0A7-B31E-4450-8DAB-C430EF5722A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperService.UnitTests", "test\SuperService.UnitTests.csproj", "{5A90E0A7-B31E-4450-8DAB-C430EF5722A0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperService", "super-service\src\SuperService.csproj", "{6E28F7F5-474A-460E-B006-86650D44593B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperService", "src\SuperService.csproj", "{6E28F7F5-474A-460E-B006-86650D44593B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
