@@ -38,6 +38,6 @@ jobs:
     - name: Change Directory
       run: cd $GITHUB_WORKSPACE/src    
     - name: Build Docker image
-      run: docker build -t ${{ secrets.DOCKER_USERNAME }}/super-service:latest . -f $GITHUB_WORKSPACE/src/Dockerfile
+      run: docker build -t ${{ secrets.DOCKER_USERNAME }}/super-service:latest . -f $PWD/Dockerfile
     - name: Push Docker image to Docker Hub
-      run: docker push ${{ secrets.DOCKER_USERNAME }}/super-service:latest      
+      run: docker push ${{ secrets.DOCKER_USERNAME }}/super-service:latest
