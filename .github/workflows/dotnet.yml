@@ -20,9 +20,13 @@ jobs:
       uses: actions/setup-dotnet@v4
       with:
         dotnet-version: 3.1.100
+    - name: Change Directory 
+      run: cd $GITHUB_WORKSPACE/src
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
       run: dotnet build --no-restore
+    - name: Change Directory 
+      run: cd $GITHUB_WORKSPACE/test      
     - name: Test
       run: dotnet test --no-build --verbosity normal
